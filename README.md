@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Solution](https://github.com/AashishVivekBhat/blog_preview)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://aashishvivekbhat.github.io/blog_preview/))
 
 ## My process
 
