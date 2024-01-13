@@ -49,7 +49,7 @@ Users should be able to:
 
 - Responsive design while writing meaningful code to improve readability and future improvements/contributions.
 
-- CSS properties & concepts like 'Flexbox', @font-face, variables etc and their syntax for writing concise & organized code.
+- CSS properties & concepts like **Flexbox, ```@font-face```, ```var``` etc and their syntax for writing concise & organized code.
 
 
 ### Continued development
